@@ -9,7 +9,7 @@
 
 ## ⚡Skills / Languages
 
-- `php` grat
+- `php` great
 - `{{ Laravel }}` great
 - `JavaScript` & `$(jQuery)` great
 - `Vue.js` good
