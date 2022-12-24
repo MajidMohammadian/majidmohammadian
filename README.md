@@ -1,6 +1,6 @@
-### Hi 👋 , I'm a happy programmer
+# 👋 Hi, I'm a happy programmer
 
-## I know a lot of good stuff, I'm developing a crappy accounting system.
+#### I know a lot of good stuff, I'm developing a crappy accounting system.
 
 Call if you have anything.
 
