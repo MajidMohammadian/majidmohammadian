@@ -23,13 +23,14 @@ I can bring whatever is big in your mind to the computer and paint it, So trust 
 
 - `php` great
 - `{{ Laravel }}` great
+- `Docker` & `DevOps` good
 - `JavaScript` & `$(jQuery)` great
 - `Vue.js` good
 - `<HTML>` + `{CSS}` + `$Sass` great
 - `DATABASE` & `SQL` very good
 - `Git` & `Git-Flow` great
 - `^ RegExp $` not bad
-- `Redis` it's Easy
+- `Redis` & `Elasticsearch` it's Easy
 - Other skills not mentioned...
 
 ## 🤔 ABOUT ME?
