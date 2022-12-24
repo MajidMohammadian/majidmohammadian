@@ -7,6 +7,18 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/majeed21/)](https://t.me/majeed21/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/majidmohammadian/)](https://linkedin.com/in/majidmohammadian/)
 
+## 🔭 What I do ? 
+
+I can bring whatever is big in your mind to the computer and paint it, So trust me my friend.
+
+## 🌱 The Full Shebang
+
+- Build killer websites as a "full-stack" developer
+- SEOer
+- Leader
+- Tech Builder
+- Not sure what you need? I can help with that too.
+
 ## ⚡Skills / Languages
 
 - `php` great
