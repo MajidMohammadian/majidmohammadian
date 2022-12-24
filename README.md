@@ -2,6 +2,8 @@
 
 ## I know a lot of good stuff, I'm developing a crappy accounting system.
 
+Call if you have anything.
+
 [![Gmail Badge](https://img.shields.io/badge/-majeedmohammadian@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:majeedmohammadian@gmail.com)](mailto:majeedmohammadian@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-3f729b?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/majeedmohammadian/)](https://instagram.com/majeedmohammadian/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/majeed21/)](https://t.me/majeed21/)
