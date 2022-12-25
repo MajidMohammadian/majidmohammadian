@@ -48,7 +48,3 @@ I'm a graduate of software engineering and I can say that I am spending one of t
 [![Instagram Badge](https://img.shields.io/badge/Instagram-3f729b?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/majeedmohammadian/)](https://instagram.com/majeedmohammadian/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/majeed21/)](https://t.me/majeed21/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/majidmohammadian/)](https://linkedin.com/in/majidmohammadian/)
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/MajidMohammadian/majidmohammadian/main/bottom.svg" alt="Github Stats" />
-</p>
