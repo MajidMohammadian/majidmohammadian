@@ -34,6 +34,9 @@ I can bring whatever is big in your mind to the computer and paint it, So trust 
 - Other skills not mentioned...
 
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> ABOUT ME?
+
+<img align="right" src="https://raw.githubusercontent.com/MajidMohammadian/majidmohammadian/main/qrcode.png" alt="QrCode" width="150" />
+
 I have been programming since I was 19 years old and I love it and I enjoy it, I continue it on my days off and I am addicted to it.
 I'm a graduate of software engineering and I can say that I am spending one of the best times of my life.
 
