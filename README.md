@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Software engineer &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; [See Portfolio](https://linkedin.com/in/majidmohammadian/)
 
-#### I know a lot of good stuff, I'm developing a crappy accounting system. 🚀
+#### I know a lot of good stuff, I am developing a great accounting system. 🚀
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='70'>
 
