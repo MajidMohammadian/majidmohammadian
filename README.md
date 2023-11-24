@@ -46,5 +46,5 @@ I'm a graduate of software engineering and I can say that I am spending one of t
 
 [![Gmail Badge](https://img.shields.io/badge/-majeedmohammadian@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:majeedmohammadian@gmail.com)](mailto:majeedmohammadian@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-3f729b?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/majeedmohammadian/)](https://instagram.com/majeedmohammadian/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/majeed21/)](https://t.me/majeed21/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/majeedmohammadian/)](https://t.me/majeedmohammadian/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/majidmohammadian/)](https://linkedin.com/in/majidmohammadian/)
