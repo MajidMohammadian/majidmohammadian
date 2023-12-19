@@ -33,6 +33,14 @@ I can bring whatever is big in your mind to the computer and paint it, So trust 
 - `Redis` & `Elasticsearch` it's Easy
 - Other skills not mentioned...
 
+## Participation in open source projects
+
+I have participated in many open source projects as follows.
+
+- [Larave Package Core](https://github.com/jobmetric/laravel-package-core)
+- [Larave Flow](https://github.com/jobmetric/laravel-flow)
+- [Larave Setting](https://github.com/jobmetric/laravel-setting)
+
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> ABOUT ME?
 
 <img align="right" src="https://raw.githubusercontent.com/MajidMohammadian/majidmohammadian/main/qrcode.png" alt="QrCode" width="150" />
