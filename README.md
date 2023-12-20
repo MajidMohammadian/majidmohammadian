@@ -33,7 +33,7 @@ I can bring whatever is big in your mind to the computer and paint it, So trust 
 - `Redis` & `Elasticsearch` it's Easy
 - Other skills not mentioned...
 
-## Participation in open source projects
+## 💎 Participation in open source projects
 
 I have participated in many open source projects as follows.
 
