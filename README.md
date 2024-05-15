@@ -117,6 +117,14 @@ I have participated in many open source projects as follows.
 [laravel-like-contributors-shield]: https://img.shields.io/github/contributors/jobmetric/laravel-like.svg?style=for-the-badge
 [laravel-like-contributors-url]: https://github.com/jobmetric/laravel-like/graphs/contributors
 
+<!-- laravel-star -->
+[laravel-star-forks-shield]: https://img.shields.io/github/forks/jobmetric/laravel-star.svg?style=for-the-badge&label=Fork
+[laravel-star-forks-url]: https://github.com/jobmetric/laravel-star/network/members
+[laravel-star-stars-shield]: https://img.shields.io/github/stars/jobmetric/laravel-star.svg?style=for-the-badge
+[laravel-star-stars-url]: https://github.com/jobmetric/laravel-star/stargazers
+[laravel-star-contributors-shield]: https://img.shields.io/github/contributors/jobmetric/laravel-star.svg?style=for-the-badge
+[laravel-star-contributors-url]: https://github.com/jobmetric/laravel-star/graphs/contributors
+
 <!-- laravel-location -->
 [laravel-location-forks-shield]: https://img.shields.io/github/forks/jobmetric/laravel-location.svg?style=for-the-badge&label=Fork
 [laravel-location-forks-url]: https://github.com/jobmetric/laravel-location/network/members
@@ -153,6 +161,7 @@ I have participated in many open source projects as follows.
 | [Larave Translation](https://github.com/jobmetric/laravel-translation)     | [![Forks][laravel-translation-forks-shield]][laravel-translation-forks-url] | [![Stargazers][laravel-translation-stars-shield]][laravel-translation-stars-url] | [![Contributors][laravel-translation-contributors-shield]][laravel-translation-contributors-url] | Now Version 2.1.0
 | [Larave Category](https://github.com/jobmetric/laravel-category)           | [![Forks][laravel-category-forks-shield]][laravel-category-forks-url] | [![Stargazers][laravel-category-stars-shield]][laravel-category-stars-url] | [![Contributors][laravel-category-contributors-shield]][laravel-category-contributors-url] | Pending
 | [Larave Like](https://github.com/jobmetric/laravel-like)                   | [![Forks][laravel-like-forks-shield]][laravel-like-forks-url] | [![Stargazers][laravel-like-stars-shield]][laravel-like-stars-url] | [![Contributors][laravel-like-contributors-shield]][laravel-like-contributors-url] | Now Version 1.2.1
+| [Larave Star](https://github.com/jobmetric/laravel-star)                   | [![Forks][laravel-star-forks-shield]][laravel-star-forks-url] | [![Stargazers][laravel-star-stars-shield]][laravel-star-stars-url] | [![Contributors][laravel-star-contributors-shield]][laravel-star-contributors-url] | Now Version 1.0.0
 | [Larave Location](https://github.com/jobmetric/laravel-location)           | [![Forks][laravel-location-forks-shield]][laravel-location-forks-url] | [![Stargazers][laravel-location-stars-shield]][laravel-location-stars-url] | [![Contributors][laravel-location-contributors-shield]][laravel-location-contributors-url] | Pending
 | [Larave Membership](https://github.com/jobmetric/laravel-membership)       | [![Forks][laravel-membership-forks-shield]][laravel-membership-forks-url] | [![Stargazers][laravel-membership-stars-shield]][laravel-membership-stars-url] | [![Contributors][laravel-membership-contributors-shield]][laravel-membership-contributors-url] | Pending
 | [Larave Env Modifier](https://github.com/jobmetric/laravel-env-modifier)   | [![Forks][laravel-env-modifier-forks-shield]][laravel-env-modifier-forks-url] | [![Stargazers][laravel-env-modifier-stars-shield]][laravel-env-modifier-stars-url] | [![Contributors][laravel-env-modifier-contributors-shield]][laravel-env-modifier-contributors-url] | Now Version 1.1.0
